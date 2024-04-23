@@ -1,0 +1,7 @@
+﻿  3.cpp
+E:\C++\Лабораторная работа 2.4 кучи\1\3\3.cpp(35,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 202 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  3.vcxproj -> E:\C++\Лабораторная работа 2.4 кучи\1\x64\Release\3.exe
